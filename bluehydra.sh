@@ -7,5 +7,5 @@ nohup ./scan.sh >/dev/null 2>&1 &
 
 echo "Bluetooth scan started."
 
-./bin/blue_hydra
+./blue_hydra/bin/blue_hydra
 
