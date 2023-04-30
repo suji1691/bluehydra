@@ -6,8 +6,7 @@ sudo apt-get install bluez bluez-test-scripts python3-bluez python3-dbus libsqli
 sudo apt-get install ruby-dev bundler
 
 
-# clone the repository
-git clone https://github.com/pwnieexpress/blue_hydra.git
+cp scan.sh bluehydra.sh blue_hydra/
 
 # change directory
 cd blue_hydra
