@@ -6,8 +6,7 @@ BlueHydra is a tool that allows you to identify Bluetooth devices and their capa
 Installation:
 
 Clone the BlueHydra repository from GitHub:
-bash
-Copy code
+
 git clone https://github.com/suji1691/bluehydra.git
 Navigate to the bluehydra directory:
 
