@@ -7,5 +7,7 @@ nohup ./scan.sh >/dev/null 2>&1 &
 
 echo "Bluetooth scan started."
 
-./blue_hydra/bin/blue_hydra
+chmod +x ./blue_hydra/bin/blue_hydra
+
+sudo ./blue_hydra/bin/blue_hydra
 
